@@ -2,4 +2,7 @@
     <string name="app_name">Movie Pager</string>
     <string name="search_hint">Movie title...</string>
     <string name="itunes_base_url">http://itunes.apple.com/us/movie/</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
